@@ -3,6 +3,8 @@
 
 Conversion of one-line handwriting images to digital text using convolutional neural networks, implemented with Keras.
 
+![Sample](https://i.hizliresim.com/jltmqhr.PNG)
+
 # What's included?
 * **ANN.py**: Neural Network & Training.
 * **Bilgisayar Projesi.pptx, G1_Ara_16011059_Makale.pdf, G1_Ara_16011059_Rapor.pdf**: Deliverables for this project.
