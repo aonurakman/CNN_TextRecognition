@@ -1,7 +1,7 @@
 # Handwriting to Digital Text using CNNs
 2019 - Yildiz Technical University, Istanbul
 
-Conversion of one-line handwriting images to digital text using convolutional neural networks, implemented with Keras.
+Conversion of handwriting to digital text using convolutional neural networks, implemented with Keras.
 
 ![Sample](https://i.hizliresim.com/jltmqhr.PNG)
 
